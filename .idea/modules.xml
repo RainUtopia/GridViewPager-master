@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\DownloaderZIP\GridViewPager-master\GridViewPager.iml" filepath="E:\DownloaderZIP\GridViewPager-master\GridViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GridViewPager-master.iml" filepath="$PROJECT_DIR$/GridViewPager-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\DownloaderZIP\GridViewPager-master\app\app.iml" filepath="E:\DownloaderZIP\GridViewPager-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridviewpager/gridviewpager.iml" filepath="$PROJECT_DIR$/gridviewpager/gridviewpager.iml" />
+      <module fileurl="file://E:\DownloaderZIP\GridViewPager-master\gridviewpager\gridviewpager.iml" filepath="E:\DownloaderZIP\GridViewPager-master\gridviewpager\gridviewpager.iml" />
+    </modules>
+  </component>
+</project>
