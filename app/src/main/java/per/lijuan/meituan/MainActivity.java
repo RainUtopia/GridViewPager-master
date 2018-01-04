@@ -39,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
                     @Override
                     public void click(int pos, int position, String str, View view) {
                         Log.d("123", pos + "/" + str);
-                        TextView textView = (TextView) view.findViewById(R.id.textView);
                     }
                 })
                 .setGridItemLongClickListener(new GridItemLongClickListener() {
